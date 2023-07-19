@@ -1,5 +1,5 @@
 ```
-Note: this is written ahead of building it.
+Note: this was written ahead of building it. Project currently just an idea.
 ```
 
 # Realtime Speech Inference
